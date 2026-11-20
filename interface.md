@@ -14,12 +14,12 @@ The values below are Folio's. Another product keeps its own values and these rul
 
 ## Layout
 
-- A room holds exactly what it needs. A record opens beside the room, so the room stays uncluttered.
+- A screen holds exactly what it needs. A record opens beside it, so the screen stays uncluttered.
 - Quiet chrome. Framed panels with a hairline, not shadows. Shadow belongs to floating layers only.
 - Flat, grouped navigation. Groups are split by a rule. No nested trees.
 - Spacing steps by 4. Equal things get equal sizes. Space inside a group is smaller than space between groups.
 - Things line up: icons in one column, labels on one line, numbers right-aligned.
-- Two control heights: 34 for main actions, 28 for compact ones.
+- Two control heights: one for main actions, one for compact ones.
 - Nested radius: inner equals outer minus padding. Panel 12, control 8, chip 6.
 - Use the space. Organise for the work, and waste none of it.
 
@@ -84,7 +84,7 @@ The values below are Folio's. Another product keeps its own values and these rul
 ## Signs it is not finished
 
 - Anything explaining the interface to the person using it.
-- Gradients, glows, blobs, glass, sparkles for AI.
+- Gradients, decorative glows, blobs, glass, sparkles for AI.
 - Emoji as icons or decoration.
 - Heavy weights and tracked uppercase.
 - Pills and badges on everything.
