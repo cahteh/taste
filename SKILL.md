@@ -15,7 +15,7 @@ metadata:
 | Job | Page |
 | --- | --- |
 | Judge or score any work | [standard.md](standard.md) |
-| Design or review a screen | [interface.md](interface.md), then standard.md |
+| Design or review a screen, a room, the bar or light | [interface.md](interface.md), then standard.md |
 | Name a thing, write copy or docs | [words.md](words.md) |
 | Write or review code | [code.md](code.md) |
 | Look for a bearing | [references.md](references.md) |
@@ -23,10 +23,10 @@ metadata:
 ## Work
 
 1. **Look.** Render the thing and judge what people see, not the source.
-2. **Judge.** Score it with the rubric in standard.md, one line of evidence per score.
+2. **Judge.** For a new look, score it with the rubric in standard.md, one line of evidence per score. For a small fix, check it against the Bare rules and the signs in interface.md; the rubric costs more than a one-row fix is worth.
 3. **Cut.** Remove what has not earned its place. Do this before adding anything.
 4. **Fix the largest fault first.** Hierarchy, then spacing, then motion, then polish.
-5. **Judge again.** Report both scores side by side, and what you did not change.
+5. **Judge again.** Report both judgments side by side, and what you did not change.
 
 ## Hold to
 

@@ -7,7 +7,7 @@ Design standards for Clarity Software and Folio, kept by Carter Long. Agents and
 | Page | Holds |
 | --- | --- |
 | [standard.md](standard.md) | What good is, and how to judge it |
-| [interface.md](interface.md) | Screens: layout, type, colour, motion, phones |
+| [interface.md](interface.md) | Screens: layout, type, colour, light, rooms, the bar, envoys, motion, phones |
 | [words.md](words.md) | Voice and naming |
 | [code.md](code.md) | Brief and elegant |
 | [references.md](references.md) | What is admired, and why |
@@ -24,7 +24,7 @@ git clone https://github.com/cahteh/taste ~/.claude/skills/taste
 
 [SKILL.md](SKILL.md) is the entry point.
 
-A project keeps its own tokens and names. Taste sets how they are used.
+A project keeps its own tokens, fonts and names. Taste holds the rules and points at them; it holds no values.
 
 ## Licence
 

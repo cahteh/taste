@@ -2,7 +2,7 @@
 
 *Interface*: Latin *inter*, between, and *facies*, face. The surface where a person and a system meet. It should show the work and little else.
 
-The values below are Folio's. Another product keeps its own values and these rules.
+These are rules, not values. Sizes, colours and fonts live in the project's tokens, and every rule here is written for a role, so it holds in each theme.
 
 ## Bare
 
@@ -15,17 +15,17 @@ The values below are Folio's. Another product keeps its own values and these rul
 ## Layout
 
 - A screen holds exactly what it needs. A record opens beside it, so the screen stays uncluttered.
-- Quiet chrome. Framed panels with a hairline, not shadows. Shadow belongs to floating layers only.
+- Quiet chrome. Parts are split by a hairline rule, not by boxes. Shadow belongs to floating layers only.
 - Flat, grouped navigation. Groups are split by a rule. No nested trees.
 - Spacing steps by 4. Equal things get equal sizes. Space inside a group is smaller than space between groups.
 - Things line up: icons in one column, labels on one line, numbers right-aligned.
 - Two control heights: one for main actions, one for compact ones.
-- Nested radius: inner equals outer minus padding. Panel 12, control 8, chip 6.
+- Nested radius: inner equals outer minus padding.
 - Use the space. Organise for the work, and waste none of it.
 
 ## Type
 
-- One family for everything. Folio uses Instrument Sans. No serif partner.
+- One family for everything, and no serif partner. Which family is Carter's to name.
 - No monospace. Numbers use tabular figures in the same family, in one format per screen.
 - A few sizes. Weights 400 and 500. Hierarchy comes from size and colour, not weight.
 - Sentence case. No tracked uppercase labels.
@@ -39,8 +39,40 @@ The values below are Folio's. Another product keeps its own values and these rul
 - One accent, used rarely: the primary action, the selection, the number that matters. Clarity blue, unless the workspace owner picks another.
 - Status colours only carry meaning, and sit inside the ramp.
 - Two brand roles. *Arrive*, an emerald, marks an arrival, once per screen. *Clear*, a clarified white, is what a thing takes as it resolves.
-- Depth comes from surface steps and hairlines. No hue gradients, gradient text, colour washes or decorative glow. Light is saved for the one primary action.
+- Depth comes from surface steps, hairlines and the room's light (below). No gradient text, no hue gradients on surfaces, no glow pinned to a control for decoration.
 - Icons come from one set, at one size and stroke, in the colour of their text role. No emoji in chrome.
+
+## Light
+
+Carter: "with any visual update i want to consider using the manifested light , letting it sit in the space of the room". And: "should be calming, and eligant, light can just spawn in however we need it does not need a source".
+
+- Light is a material of the room. It sits in the space behind and below the content, never on top of it.
+- It appears where it is needed. It needs no lamp or beam. A source may come later, by Carter's choice.
+- It is calm. It holds still, never pulses, and never crosses text.
+- It reads the theme's own roles, so each theme lights itself.
+- Every visual change asks whether the light belongs in it.
+
+## Rooms
+
+*Room*: Old English *rūm*, space, room to move. A room is a space a person works in, not a box on a page.
+
+- An opened room hangs in the space at the centre: no frame around it, no panel behind it (Carter, 11/22). Its parts stay split by rules.
+- A room may open full screen, split beside another, or as a companion beside the one in use.
+- Each room opens one way and closes one way. Escape goes back one step, on every page.
+- The house lights go down when a room opens, so its light can be read.
+
+## The bar
+
+- A few rooms, chosen by the owner, which a person may change for themselves. No catch-all menu on it.
+- Settings and the other pages open from the portrait menu.
+- It is crossed by keyboard as well as by hand.
+
+## Envoys
+
+*Envoy*: French *envoyé*, one sent. An agent that speaks for a person or a team.
+
+- An envoy speaks under its own name and carries a mark that says it is an envoy. A person's words carry no mark.
+- The mark opens to show where the envoy comes from. Nothing about an agent is hidden from the people it speaks to.
 
 ## Motion
 
@@ -63,7 +95,7 @@ The values below are Folio's. Another product keeps its own values and these rul
 ## Charts
 
 - A smooth line, a live end dot, a value label that rides the line, eased changes between ranges.
-- One accent per chart, on a muted grid. No glow and no gradient fill.
+- One accent per chart, on a muted grid. No glow on the marks and no gradient fill. Light belongs to the room, not the data.
 - A change says what it compares to.
 
 ## Phones
@@ -84,7 +116,8 @@ The values below are Folio's. Another product keeps its own values and these rul
 ## Signs it is not finished
 
 - Anything explaining the interface to the person using it.
-- Gradients, decorative glows, blobs, glass, sparkles for AI.
+- Gradients, glows pinned to controls, blobs, glass, sparkles for AI. Light that crosses text or pulses.
+- A frame or panel drawn around a room.
 - Emoji as icons or decoration.
 - Heavy weights and tracked uppercase.
 - Pills and badges on everything.
