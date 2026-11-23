@@ -1,55 +1,31 @@
-# ui-taste
+# taste
 
-Carter Long's design review skill for Claude. It scores a screen on craft, design and content, finds what reads as unconsidered, sets a direction, fixes the screen in nine passes and scores it again.
+Design standards for Clarity Software and Folio, kept by Carter Long. Agents and people read them before they design, write or build.
 
-ui-taste is an adaptation of [unslop](https://github.com/heydamir/unslop) by Damir Sokolovsky ([@heydamir](https://x.com/heydamir)), used under CC BY 4.0. The nine-pass method, most of the signs, the generic tokens, the visuals guide, `effects.md` and both scripts come from unslop.
+*Taste*: Old French *taster*, to touch, to try by hand. Taste is judgment earned by handling the thing. These pages hold what that handling has settled.
 
-## What changed from unslop
+| Page | Holds |
+| --- | --- |
+| [standard.md](standard.md) | What good is, and how to judge it |
+| [interface.md](interface.md) | Folio's screens: layout, type, colour, light, rooms, the bar, envoys, motion, phones; and what the Clarity website takes from it |
+| [words.md](words.md) | Naming, and Aristotle's check |
+| [code.md](code.md) | Brief and elegant |
+| [references.md](references.md) | What is admired, and why |
 
-- **Scoring.** Every run scores the screen before and after with Carter's "Adjudicating Beauty" rubric: craft (medium × execution), design (temperature × harmony, after Nikos Salingaros) and content (resonance × value), with a scale cap. See `references/rubric.md`.
-- **Bare UI.** Callouts, subtitles, helper notes, flavor text and titles that repeat the breadcrumb are signs to remove.
-- **Folio's Founders theme** is a fixed direction with exact tokens. Client work still gets a direction from the product.
-- **No monospace.** Figures use tabular numerals in the interface family.
-- **Paintings first.** Public-domain paintings and real photographs come before generated images.
-- **Reduced motion** is part of every motion pass.
-- **Carter's own references:** Folio screens and the Vermeer from sign-in, plus an `inspiration/` folder.
+## Use
 
-## Layout
+Read the page for the job. Each stands alone.
 
-```
-skills/ui-taste/
-  SKILL.md               method
-  references/
-    rubric.md            scoring
-    signs.md             what to look for
-    tokens.md            Founders and generic values
-    visuals.md           paintings, scenes, objects
-    refs.md, refs/       reference screens
-    inspiration/         images Carter adds
-    effects.md           code treatments (unslop)
-  scripts/
-    snapshot.mjs         save a live page (unslop)
-    story.mjs            render a story video (unslop)
-```
-
-## Install
-
-Claude Code, for one person:
+As a Claude skill, the repo is the skill:
 
 ```bash
-mkdir -p ~/.claude/skills && ln -s "$PWD/skills/ui-taste" ~/.claude/skills/ui-taste
+git clone https://github.com/cahteh/taste ~/.claude/skills/taste
 ```
 
-Or copy `skills/ui-taste` into a project's `.claude/skills/`. Then ask Claude to review, score or polish a screen.
+[SKILL.md](SKILL.md) is the entry point.
 
-The scripts need Node and Playwright, and `story.mjs` also needs ffmpeg.
+A project keeps its own tokens, fonts and names. Taste holds the rules and points at them; it holds no values.
 
-## License
+## Licence
 
-CC BY 4.0, see `LICENSE`. Credit both Carter Long and Damir Sokolovsky in copies and adaptations. The Vermeer is public domain. Folio screenshots show synthetic sample data.
-
-## Folio concept planning and new references
-
-The [November 5, 2026 reference kit](planning/folio/2026-11-05/README.md) contains Carter's new UI images, motion videos, library links, concept brief, and a Claude handoff. The collection separates owner instructions, direct observations, and suggestions. Existing Founders rules and baseline references remain intact.
-
-Third-party reference assets retain their respective rights; the repository's skill license does not relicense them.
+CC BY 4.0, see [LICENSE](LICENSE). The first version adapted [unslop](https://github.com/heydamir/unslop) by Damir Sokolovsky, and some of its signs remain in [interface.md](interface.md). Credit both in copies and adaptations.
