@@ -4,7 +4,7 @@
 
 These are rules, not values. Sizes, colours and fonts live in the project's tokens, and every rule here is written for a role, so it holds in each theme.
 
-The rules are Folio's. The Clarity website is not Folio's dark room: it is a normal, friendly site with real content, testimonials, videos and docs. It takes Type, Colour, Motion, Behaviour, Phones and Pictures from this page, and none of the rest.
+The rules are Folio's. Folio opens on a few starting themes, the fiat themes: a dialed-in, ordinary CRM, not dark by default. The HUD theme turns that CRM into something more magical; light is its material. The Clarity website is neither: it is a normal, friendly site with real content, testimonials, videos and docs. It takes Type, Colour, Motion, Behaviour, Phones and Pictures from this page, and none of the rest.
 
 ## Bare
 
