@@ -1,6 +1,6 @@
 ---
 name: taste
-description: Carter Long's design standards for Clarity Software and Folio. Load before designing, reviewing, scoring or polishing a screen, page or mockup; before naming something or writing interface or marketing copy; and before writing or reviewing code. Use when asked whether something looks good, has taste, or reads as AI-made.
+description: Carter Long's design standards for Clarity Software and Folio. Load before designing, reviewing, scoring or polishing a screen, page or mockup; before naming something; and before writing or reviewing code. Use when asked whether something looks good, has taste, or reads as AI-made.
 license: CC-BY-4.0
 metadata:
   author: Carter Long
@@ -16,7 +16,7 @@ metadata:
 | --- | --- |
 | Judge or score any work | [standard.md](standard.md) |
 | Design or review a screen, a room, the bar or light | [interface.md](interface.md), then standard.md |
-| Name a thing, write copy or docs | [words.md](words.md) |
+| Name a thing, or check what is said | [words.md](words.md) |
 | Write or review code | [code.md](code.md) |
 | Look for a bearing | [references.md](references.md) |
 

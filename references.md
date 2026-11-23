@@ -4,7 +4,6 @@
 
 | Reference | What to take |
 | --- | --- |
-| [area.tech](https://www.area.tech/) | A studio site where the work is the proof. Projects read as case files: a short brief, numbered exhibits, captions. Art is staged as an object. Almost no marketing copy |
 | [Liveline](https://benji.org/liveline) | The bar for charts: a smooth line, a live end dot, a value that rides the line |
 | Folio's calendar | The screen Carter spent longest on. The reference for his taste in layout and motion |
 | Vermeer, *The Geographer*, 1669 | Window light, one blue robe, a map. Warmth with restraint. Folio's sign-in painting, in the public domain |

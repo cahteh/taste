@@ -24,18 +24,3 @@ Aristotle's rhetoric comes before contemporary rhetoric. In the *Rhetoric* he na
 Use them as a check. Everything said or shipped should hold all three: character you can trust, a feeling that is true, proof in the work.
 
 Argue from character, values and evidence. Do not reach for hype, urgency or hedging.
-
-## Voice
-
-- Plain, exact, brief. Short sentences.
-- Say what the thing does, with its own nouns. A line that fits any product says nothing.
-- State the vision whole. Do not hedge it.
-- No hype words, no exclamation marks, no filler headings.
-- On a site, the work is the proof. Show it and say little.
-
-## In the interface
-
-- Labels are short, in sentence case, with no trailing period. `Search`, not `Search anything...`.
-- A status is a dot and a short label.
-- A change names its comparison: `+12% vs last month`.
-- Text that explains the interface is a fault in the interface. See [interface.md](interface.md).

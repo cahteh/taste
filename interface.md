@@ -4,13 +4,14 @@
 
 These are rules, not values. Sizes, colours and fonts live in the project's tokens, and every rule here is written for a role, so it holds in each theme.
 
+The rules are Folio's. The Clarity website is not Folio's dark room: it is a normal, friendly site with real content, testimonials, videos and docs. It takes Type, Colour, Motion, Behaviour, Phones and Pictures from this page, and none of the rest.
+
 ## Bare
 
-- Labels only where they are needed to use the thing.
 - No callouts, subtitles, helper notes, taglines or flavour text. If a control needs a sentence, fix the control.
 - No title repeats what the breadcrumb or the navigation already says. A section does not spend space restating its own name.
 - What may stay: a real constraint, a consequence the person must know before acting, and a status.
-- One place to change a setting. One save per view. One label per action.
+- One place to change a setting. One save per view.
 
 ## Layout
 
@@ -21,14 +22,12 @@ These are rules, not values. Sizes, colours and fonts live in the project's toke
 - Things line up: icons in one column, labels on one line, numbers right-aligned.
 - Two control heights: one for main actions, one for compact ones.
 - Nested radius: inner equals outer minus padding.
-- Use the space. Organise for the work, and waste none of it.
 
 ## Type
 
-- One family for everything, and no serif partner. Which family is Carter's to name.
+- One family for everything, and no serif partner.
 - No monospace. Numbers use tabular figures in the same family, in one format per screen.
-- A few sizes. Weights 400 and 500. Hierarchy comes from size and colour, not weight.
-- Sentence case. No tracked uppercase labels.
+- A few sizes. Hierarchy comes from size and colour before weight.
 
 ## Colour
 
@@ -39,7 +38,7 @@ These are rules, not values. Sizes, colours and fonts live in the project's toke
 - One accent, used rarely: the primary action, the selection, the number that matters. Clarity blue, unless the workspace owner picks another.
 - Status colours only carry meaning, and sit inside the ramp.
 - Two brand roles. *Arrive*, an emerald, marks an arrival, once per screen. *Clear*, a clarified white, is what a thing takes as it resolves.
-- Depth comes from surface steps, hairlines and the room's light (below). No gradient text, no hue gradients on surfaces, no glow pinned to a control for decoration.
+- Depth comes from surface steps, hairlines and the room's light (below). No gradient text.
 - Icons come from one set, at one size and stroke, in the colour of their text role. No emoji in chrome.
 
 ## Light
@@ -81,7 +80,6 @@ Carter: "with any visual update i want to consider using the manifested light , 
 - Numbers roll only when the value changes, never on load.
 - Nothing loops unless it is live.
 - Everything that moves has a reduced-motion version that shows the end state.
-- An approved concept's motion is built as designed. Do not shorten it to fit a general rule.
 
 ## Behaviour
 
@@ -95,7 +93,7 @@ Carter: "with any visual update i want to consider using the manifested light , 
 ## Charts
 
 - A smooth line, a live end dot, a value label that rides the line, eased changes between ranges.
-- One accent per chart, on a muted grid. No glow on the marks and no gradient fill. Light belongs to the room, not the data.
+- One accent per chart, on a muted grid.
 - A change says what it compares to.
 
 ## Phones
@@ -116,12 +114,10 @@ Carter: "with any visual update i want to consider using the manifested light , 
 ## Signs it is not finished
 
 - Anything explaining the interface to the person using it.
-- Gradients, glows pinned to controls, blobs, glass, sparkles for AI. Light that crosses text or pulses.
+- Blobs and sparkles for AI. Light that crosses text or pulses.
 - A frame or panel drawn around a room.
 - Emoji as icons or decoration.
-- Heavy weights and tracked uppercase.
 - Pills and badges on everything.
-- Hype words and exclamation marks.
 - Read-only values styled as fields. A status dot with no label.
 - A raw colour in a view.
 - A screen that would fit another product with the name swapped.

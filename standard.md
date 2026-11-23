@@ -11,10 +11,6 @@
 - **Near perfect, not perfect.** Precision in the craft, life in the content. Sterile everywhere reads as a template.
 - **Human scale.** Sizes, density and targets follow the hand and the eye.
 
-## The nucleus
-
-*Nucleus*: Latin for kernel, from *nux*, nut. To reach it, trim until only the thing itself remains.
-
 ## Judging
 
 The rubric is Carter's framework, Adjudicating Beauty. Beauty is a signal of fertility: a thing looks beautiful when it shows it is alive, cared for and able to make more good things. Work shows this in three ways, and each is a product of two halves, so a zero on either side is a zero.
