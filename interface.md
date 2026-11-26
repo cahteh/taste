@@ -38,7 +38,8 @@ The rules are Folio's. Folio opens on a few starting themes, the fiat themes: a 
 - One accent, used rarely: the primary action, the selection, the number that matters. Clarity blue, unless the workspace owner picks another.
 - Status colours only carry meaning, and sit inside the ramp.
 - Two brand roles. *Arrive*, an emerald, marks an arrival, once per screen. *Clear*, a clarified white, is what a thing takes as it resolves.
-- Depth comes from surface steps, hairlines and the room's light (below). No gradient text.
+- Depth comes from surface steps, hairlines and the room's light (below).
+- Gradient text is allowed, done well. Carter, 11/26: "can use gradient text , just not poorly". Done well, it reads as light falling on the type: one hue, from the text's own role toward a fainter step of it, lit from the room's light, on one statement per screen, and still legible at its faintest end. Done poorly, it is several hues, an accent sweep, or a fill on body text and labels.
 - Icons come from one set, at one size and stroke, in the colour of their text role. No emoji in chrome.
 
 ## Light
