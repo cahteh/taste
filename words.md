@@ -23,4 +23,11 @@ Aristotle's rhetoric comes before contemporary rhetoric. In the *Rhetoric* he na
 
 Use them as a check. Everything said or shipped should hold all three: character you can trust, a feeling that is true, proof in the work.
 
-Argue from character, values and evidence. Do not reach for hype, urgency or hedging.
+## Voice
+
+- Plain, warm, exact. Short sentences. A statement and one plain supporting sentence is the usual pair.
+- Argue from character, values and evidence. No hype, no urgency, no hedging.
+- Say what happened and what can be done, in the person's words: "Didn't send. The number bounced." Not codes, not blame.
+- No filler and no flavour text that says nothing.
+- Compliance is "built for", never "certified". Numbers are the client's, approved in writing.
+- Carter writes the words. Never invent copy. A slot waiting for him is shown as `[bracketed]`.
