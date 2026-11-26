@@ -7,7 +7,7 @@ Design standards for Clarity Software and Folio, kept by Carter Long. Agents and
 | Page | Holds |
 | --- | --- |
 | [standard.md](standard.md) | What good is, and how to judge it |
-| [interface.md](interface.md) | Folio's screens: calm, layout, navigation, rooms, type, colour, light, envoys, motion, phones; and what the Clarity website takes from it |
+| [interface.md](interface.md) | Folio's screens: calm, layout, navigation, rooms, sheets, play, marks, type, colour, light, envoys, motion, phones; and what the Clarity website takes from it |
 | [words.md](words.md) | Naming, Aristotle's check, and voice |
 | [code.md](code.md) | Brief and elegant |
 | [references.md](references.md) | What is admired, and why |

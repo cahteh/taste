@@ -14,3 +14,7 @@
 | Aristotle, *Rhetoric* | Ethos, pathos, logos as a working check |
 | Nikos Salingaros | Temperature and harmony, the design half of the rubric |
 | [unslop](https://github.com/heydamir/unslop), Damir Sokolovsky | Where the first version of this repo began |
+| Minecraft advancements | The mechanic for the Craft's fiat view: framed steps, elbow lines, a name on hover. Only the mechanic; no look, art or icons |
+| Destiny's director | The feel for the Craft in One Light: a star map crossed by free camera, a reticle on hover, a card that names the thing. Only the feel |
+| [area.tech](https://area.tech) | Carter, 11/26: "great designers". Dimension and light in a mark |
+| EH Baker's Google sheet | The model for Folio's default sheet: its letters, its tabs and their names |

@@ -55,6 +55,36 @@ Folio keeps a person on their frequency. It never hurries them.
 - Each room opens one way and closes one way. Escape goes back one step, on every page.
 - The house lights go down when a room opens, so its light can be read.
 
+## Sheets
+
+*Sheet*: Old English *scēte*, a cloth spread out. A grid people already know, kept.
+
+- A client who ran on a spreadsheet gets a sheet, not a form. EH Baker's crew sheet is the model for Folio's default sheet. Carter, 11/26: "the default folio sheet will be modeled after this one exactly".
+- Column letters stay. Carter, 11/26: "i like the letters and want it to be a true folio sheet".
+- Tabs keep the client's own names from the sheet they left: Assign Crew, Report Log. The room around them keeps Folio's name (Schedule).
+- One sheet, one component, one Sheet menu, wherever it opens: in its room or as a file in Drive. A file's name shows once, in the top bar.
+- A second view of the same data is a tab of the same sheet, not a new room. Carter, 11/26: "reports should be on another tab of the sheet just like their used to on google sheets".
+
+## Play
+
+*Play*: Old English *plega*, brisk movement, exercise. The game is in the work and never in the way of it.
+
+- Folio is a CRM first. The game sits behind it, reached on purpose, and stays out of fiat's daily screens.
+- What is lit records what a person did, taken from History. Each lit thing names the record that lit it and opens it.
+- No points, streaks, numbered levels or leaderboards. No confetti or sparkle. No copy that explains the game.
+- **The Craft in One Light is a sky.** Each room is a constellation, each deed a star, the Calling a few faint stars at the rim. The screen holds about one constellation; the whole sky is crossed by free camera, with a small map and a way home. Carter, 11/26: "the full span of this skill tree requireds navigating free cam around the board"; "almost like constallations, were getting somwhere, destiny UX is cool".
+- **The Craft in fiat is simplified advancements.** One tab per room held, a small fixed tree read left to right that fits one screen: square frames, elbow lines, a card on hover. Carter, 11/26: "a simplified advancements, a la minecraft, for the fiat view of these". The mechanic is taken, never the look, art or icons.
+- What is next is named; what lies beyond it stays unnamed and faint.
+
+## Marks
+
+*Mark*: Old English *mearc*, a boundary, a sign. A mark earns its place by being rare.
+
+- The spark is Folio's mark, and the way a person reaches Folio or Sophia. Carter, 11/26: "this IS the spark , the magic of folio".
+- Ask Folio in fiat; ask Sophia in One Light. One mark, drawn simply for fiat and as light for One Light. Carter: "it should also read as a 2d sketch, the main render will be its appearance in onelight, and simplified version for ask folio".
+- A mark is not reused as an ornament. It does not become a node, a bullet or a frame. Carter, 11/26: "i dont like that almond let alone overusing it.."
+- The almond (vesica, mandorla) is out, as a mark and as a shape.
+
 ## Type
 
 - One family for everything. No serif partner, no monospace. A serif inside a wordmark is part of the mark.
@@ -145,6 +175,8 @@ Carter: "with any visual update i want to consider using the manifested light , 
 - Read-only values styled as fields.
 - A raw colour in a view.
 - A screen that would fit another product with the name swapped.
+- A mark used as decoration, or repeated until it means nothing.
+- Points, streaks or levels. A game that explains itself.
 
 ---
 
